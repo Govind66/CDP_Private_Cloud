@@ -60,6 +60,9 @@ $ echo -e  'y\n'| ssh-keygen -t rsa -P "" -f $HOME/.ssh/id_rsa
 $ sudo yum install java-1.8.0-openjdk-devel
 ```
 ```
+$ java -version
+```
+```
 $ wget https://archive.cloudera.com/cm7/7.1.3/cloudera-manager-installer.bin
 ```
 ```
