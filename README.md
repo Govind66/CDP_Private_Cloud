@@ -2,7 +2,7 @@
 
 ### Clone Repository
 ```
-$ https://github.com/Govind66/CDP_Private_Cloud.git
+$ git clone https://github.com/Govind66/CDP_Private_Cloud.git
 ```
 $ cd System_prerequisites
 
